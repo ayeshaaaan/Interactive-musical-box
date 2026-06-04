@@ -46,4 +46,4 @@ The mechanical foundation is designed modularly to support a 4-phase electronics
 ---
 
 ## 📄 Documentation
-* For the full engineering depth, equations, and literature background, read the [Complete Technical Project Report (PDF)](Interactive_Musical_Box_Report.pdf)[cite: 1].
+* For the full engineering depth, equations, and literature background, read the [Interactive_Musical_Box_Report.pdf][cite: 1].
