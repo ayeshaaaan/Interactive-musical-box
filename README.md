@@ -6,7 +6,7 @@
 * **Team Members:** Shinjini Ghosh, Ayeshan Raza[cite: 1]
 * **Tools Used:** SolidWorks, SolidWorks Motion Analysis, Bluetooth DC Motors[cite: 1]
 
-This repository contains the complete design, kinematic synthesis, and simulation validation for an **Interactive Musical Box**[cite: 1]. The project modernizes the traditional 18th-century fixed-song pin-and-comb mechanism by integrating wireless smartphone audio streaming with synchronized, motor-driven figurine choreography driven by custom cam profiles and four-bar linkages[cite: 1].
+This repository contains the complete design, kinematic synthesis, and simulation validation for an **Interactive Musical Box**[cite: 1]. The project modernizes the traditional 18th-century fixed-song pin-and-comb mechanism by integrating wireless smartphone audio streaming with synchronised, motor-driven figurine choreography driven by custom cam profiles and four-bar linkages[cite: 1].
 
 ---
 
